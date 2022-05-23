@@ -1,3 +1,3 @@
 # Omnifood practice project
 
-Static web page about an i unreal food business
+Static web page about an unreal food business
